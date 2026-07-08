@@ -1,0 +1,11 @@
+"ALL SUPABASE BASH CMDs START WITH supabase"
+
+supabase start (starts the supabase session) 
+
+supabase functions download [functionName] (downloads the function from cloud edge functions to local, only needs to be done initially or to sync changes)
+
+supabase functions serve [functionName] (Starts the runtime for the function, will render terminal unusable and further cmds need a new terminal)
+	can add --no-verify-jwt --env-file .env.local this bypasses jwt which can block, and sets the env file to a file of choosing. 
+
+curl -i http://127.0.0.1:54321/functions/v1/[functionName] (calls the function and runs it)
+

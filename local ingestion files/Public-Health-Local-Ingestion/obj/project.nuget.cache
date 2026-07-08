@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9/X+RIWIuw5GdAO240Pq1aHaKyQgTwtWY8sAM3PBWMmq/Jp2joa1M0ZMlMKXRmIVXOyN9cDfenWw6fRw43C8Zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joshu\\OneDrive\\Desktop\\public_health_intelligence\\local ingestion files\\Public-Health-Local-Ingestion\\Public-Health-Local-Ingestion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joshu\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512",
+    "C:\\Users\\Joshu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Joshu\OneDrive\Desktop\public_health_intelligence\local ingestion files\Public-Health-Local-Ingestion\obj\Debug\net7.0\Public-Health-Local-Ingestion.csproj.AssemblyReference.cache
+C:\Users\Joshu\OneDrive\Desktop\public_health_intelligence\local ingestion files\Public-Health-Local-Ingestion\obj\Debug\net7.0\Public-Health-Local-Ingestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshu\OneDrive\Desktop\public_health_intelligence\local ingestion files\Public-Health-Local-Ingestion\obj\Debug\net7.0\Public-Health-Local-Ingestion.AssemblyInfoInputs.cache
+C:\Users\Joshu\OneDrive\Desktop\public_health_intelligence\local ingestion files\Public-Health-Local-Ingestion\obj\Debug\net7.0\Public-Health-Local-Ingestion.AssemblyInfo.cs
+C:\Users\Joshu\OneDrive\Desktop\public_health_intelligence\local ingestion files\Public-Health-Local-Ingestion\obj\Debug\net7.0\Public-Health-Local-Ingestion.csproj.CoreCompileInputs.cache
+C:\Users\Joshu\OneDrive\Desktop\public_health_intelligence\local ingestion files\Public-Health-Local-Ingestion\bin\Debug\net7.0\Public-Health-Local-Ingestion.exe
+C:\Users\Joshu\OneDrive\Desktop\public_health_intelligence\local ingestion files\Public-Health-Local-Ingestion\bin\Debug\net7.0\Public-Health-Local-Ingestion.deps.json
+C:\Users\Joshu\OneDrive\Desktop\public_health_intelligence\local ingestion files\Public-Health-Local-Ingestion\bin\Debug\net7.0\Public-Health-Local-Ingestion.runtimeconfig.json
+C:\Users\Joshu\OneDrive\Desktop\public_health_intelligence\local ingestion files\Public-Health-Local-Ingestion\bin\Debug\net7.0\Public-Health-Local-Ingestion.dll
+C:\Users\Joshu\OneDrive\Desktop\public_health_intelligence\local ingestion files\Public-Health-Local-Ingestion\bin\Debug\net7.0\Public-Health-Local-Ingestion.pdb
+C:\Users\Joshu\OneDrive\Desktop\public_health_intelligence\local ingestion files\Public-Health-Local-Ingestion\obj\Debug\net7.0\Public-Health-Local-Ingestion.dll
+C:\Users\Joshu\OneDrive\Desktop\public_health_intelligence\local ingestion files\Public-Health-Local-Ingestion\obj\Debug\net7.0\refint\Public-Health-Local-Ingestion.dll
+C:\Users\Joshu\OneDrive\Desktop\public_health_intelligence\local ingestion files\Public-Health-Local-Ingestion\obj\Debug\net7.0\Public-Health-Local-Ingestion.pdb
+C:\Users\Joshu\OneDrive\Desktop\public_health_intelligence\local ingestion files\Public-Health-Local-Ingestion\obj\Debug\net7.0\Public-Health-Local-Ingestion.genruntimeconfig.cache
+C:\Users\Joshu\OneDrive\Desktop\public_health_intelligence\local ingestion files\Public-Health-Local-Ingestion\obj\Debug\net7.0\ref\Public-Health-Local-Ingestion.dll
+C:\Users\Joshu\OneDrive\Desktop\public_health_intelligence\local ingestion files\Public-Health-Local-Ingestion\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\Joshu\OneDrive\Desktop\public_health_intelligence\local ingestion files\Public-Health-Local-Ingestion\obj\Debug\net7.0\Public-Health-Local-Ingestion.csproj.CopyComplete
