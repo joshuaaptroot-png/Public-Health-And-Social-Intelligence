@@ -166,7 +166,11 @@ for file_number, file in enumerate(files, start=1):
         copy_sql = f"""
             COPY bronze.{quote_ident(table_name)}
             FROM STDIN
-            WITH CSV HEADER
+            WITH (
+                FORMAT csv,
+                HEADER true,
+                ON_ERROR ignore
+            );
         """
 
         cursor.copy_expert(copy_sql, progress_file)
